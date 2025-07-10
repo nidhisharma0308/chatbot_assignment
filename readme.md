@@ -35,6 +35,8 @@ Demo Screenshot
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
+<img width="325" height="700" alt="image" src="https://github.com/user-attachments/assets/bac5373a-770f-4dac-aff4-a814460c2b67" />
+
 ## 📚 Notes
 
 * **Embedding Model:** `all-MiniLM-L6-v2` (small & fast for CPU use)
